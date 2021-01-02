@@ -36,19 +36,19 @@ h1{
 }	
 	
 .img1 {
-	background-image: url(img/img1.jpg);
+	background-image: url(/img/img1.jpg);
 }
 
 .img2 {
-	background-image: url(../img2.jpg);
+	background-image: url(./img2.jpg);
 }
 
 .img3 {
-	background-image: url(/img/img3.jpg);
+	background-image: url(../img/img3.jpg);
 }
 
 .img4 {
-	background-image: url(//img/img4.jpg);
+	background-image: url(..//img/img4.jpg);
 }
 
 .img5 {
