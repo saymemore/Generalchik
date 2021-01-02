@@ -40,7 +40,7 @@ h1{
 }
 
 .img2 {
-	background-image: img2.jpg;
+	background-image: url(img2.jpg);
 }
 
 .img3 {
